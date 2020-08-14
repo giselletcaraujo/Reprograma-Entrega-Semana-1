@@ -1,10 +1,10 @@
-# exercicio01-giselle
+### exercicio01-giselle
 
 ![como funciona a internet](./images/topo_atividade1.png)
 
 # **O QUE É A INTERNET?**
 
-#### Ao falarmos sobre Internet, geralmente lembramos que ela é “uma rede de computadores”. Podemos até dizer que sim, mas para compreender como a Internet chega na sua casa vamos imaginar que ela é uma pequena rede conectada a outras redes (maiores) de computadores. Sendo assim, não há um dono da Internet, nem uma empresa que a controle, mas sim um grupo de várias redes interligadas.
+### Ao falarmos sobre Internet, geralmente lembramos que ela é “uma rede de computadores”. Podemos até dizer que sim, mas para compreender como a Internet chega na sua casa vamos imaginar que ela é uma pequena rede conectada a outras redes (maiores) de computadores. Sendo assim, não há um dono da Internet, nem uma empresa que a controle, mas sim um grupo de várias redes interligadas.
 
 
 # **O CAMINHO DA INTERNET**
@@ -34,5 +34,6 @@
 ### Este pode parecer o passo final do caminho percorrido pela Internet, mas na verdade não é. Ao chegar no usuário final o sinal de Internet passa a repetir todo o caminho novamente, porém na forma inversa, já que você, como usuário final, também envia sinais - com as suas requisições - para a Internet. Os dados enviados pelos usuários são transportados pelo provedor de serviço, enviados para o provedor de acesso e chegam novamente ao backbone. A partir do backbone, o processo segue novamente o mesmo caminho inicial até o próximo destino, que pode ser, por exemplo, o arquivo do CD que você está querendo fazer download, de qualquer lugar pode ser até de outro país.
 
 
-### **LEIA MAIS** <https://www.techtudo.com.br/noticias/noticia/2011/07/como-internet-chega-na-sua-casa.html> *Acesso em 14/08/2020*
+
+#### **LEIA MAIS** <https://www.techtudo.com.br/noticias/noticia/2011/07/como-internet-chega-na-sua-casa.html> *Acesso em 14/08/2020*
 
