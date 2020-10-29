@@ -1,5 +1,3 @@
-### exercicio01-giselle
-
 ![como funciona a internet](./images/topo_atividade1.png)
 
 # **O QUE É A INTERNET?**
